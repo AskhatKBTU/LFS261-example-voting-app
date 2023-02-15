@@ -1,5 +1,7 @@
 Example Voting App
 =========
+http://3.90.4.116:8080/buildStatus/icon?job=instavote%2Fworker-build
+
 
 Getting started
 ---------------
